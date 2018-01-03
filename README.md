@@ -1,2 +1,2 @@
 # CC430
-ultra low consumption transmission
+ultra low power consumption transmission
