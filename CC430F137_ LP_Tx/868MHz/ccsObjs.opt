@@ -1,0 +1,1 @@
+"./Code/RF1A.obj" "./Code/TX.obj" "./Code/acceleration.obj" "./Code/as.obj" "./Code/bmp_as.obj" "./Code/cc430x514x_ADC10.obj" "./Code/cc430x514x_PMA.obj" "./Code/cc430x514x_PMM.obj" "../lnk_cc430f5147.cmd" -l"libc.a" 
